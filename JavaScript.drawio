@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T13:00:27.027Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="cSglQLoSxB1qxnEwlZ-B" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T13:43:10.525Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="SexqrRdHnV16XOpAXT92" version="16.2.4" type="github">
   <diagram id="LKdaaSxqh0i9E6AuNrEw" name="JavaScript">
     <mxGraphModel dx="3715" dy="2255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -801,7 +801,7 @@
         <mxCell id="4-hL2RiJrrzOVP7Kn21F-11" value="DOM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8fb1e9;strokeColor=none;fontSize=41;fontStyle=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1450" y="7390" width="300" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="PFI3uvoxex2QhXYOUHTX-1" value="Document Object" style="whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#8FB1E9;strokeColor=none;rounded=1;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;arcSize=34;opacity=85;" vertex="1" parent="1">
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-1" value="Document Object" style="whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#8FB1E9;strokeColor=none;rounded=1;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;arcSize=34;opacity=85;" vertex="1" parent="1">
           <mxGeometry x="1900" y="7250" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PFI3uvoxex2QhXYOUHTX-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" edge="1" parent="1" source="PFI3uvoxex2QhXYOUHTX-4" target="PFI3uvoxex2QhXYOUHTX-6">
@@ -816,7 +816,7 @@
         <mxCell id="PFI3uvoxex2QhXYOUHTX-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" edge="1" parent="1" source="PFI3uvoxex2QhXYOUHTX-4" target="PFI3uvoxex2QhXYOUHTX-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PFI3uvoxex2QhXYOUHTX-4" value="Selection" style="whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#8FB1E9;strokeColor=none;rounded=1;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;arcSize=34;opacity=85;" vertex="1" parent="1">
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-4" value="Selection" style="whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#8FB1E9;strokeColor=none;rounded=1;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;arcSize=34;opacity=85;" vertex="1" parent="1">
           <mxGeometry x="1925" y="7460" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PFI3uvoxex2QhXYOUHTX-6" value="getElementById" style="whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#8FB1E9;strokeColor=none;rounded=1;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;arcSize=34;opacity=70;" vertex="1" parent="1">
@@ -825,7 +825,22 @@
         <mxCell id="PFI3uvoxex2QhXYOUHTX-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" edge="1" parent="1" source="PFI3uvoxex2QhXYOUHTX-8" target="PFI3uvoxex2QhXYOUHTX-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PFI3uvoxex2QhXYOUHTX-8" value="Manipulation" style="whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#8FB1E9;strokeColor=none;rounded=1;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;arcSize=34;opacity=85;" vertex="1" parent="1">
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-20" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" edge="1" parent="1" source="PFI3uvoxex2QhXYOUHTX-8" target="PFI3uvoxex2QhXYOUHTX-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" edge="1" parent="1" source="PFI3uvoxex2QhXYOUHTX-8" target="PFI3uvoxex2QhXYOUHTX-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" edge="1" parent="1" source="PFI3uvoxex2QhXYOUHTX-8" target="PFI3uvoxex2QhXYOUHTX-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" edge="1" parent="1" source="PFI3uvoxex2QhXYOUHTX-8" target="PFI3uvoxex2QhXYOUHTX-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-37" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" edge="1" parent="1" source="PFI3uvoxex2QhXYOUHTX-8" target="PFI3uvoxex2QhXYOUHTX-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-8" value="Manipulation" style="whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#8FB1E9;strokeColor=none;rounded=1;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;arcSize=34;opacity=85;" vertex="1" parent="1">
           <mxGeometry x="1950" y="8050" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PFI3uvoxex2QhXYOUHTX-10" value="getElementByTagName" style="whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#8FB1E9;strokeColor=none;rounded=1;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;arcSize=34;opacity=35;" vertex="1" parent="1">
@@ -839,6 +854,51 @@
         </mxCell>
         <mxCell id="PFI3uvoxex2QhXYOUHTX-17" value="innerText &amp;amp; textContent" style="whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#8FB1E9;strokeColor=none;rounded=1;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;arcSize=34;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="2440" y="7830" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-19" value="innerHTML" style="whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#8FB1E9;strokeColor=none;rounded=1;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;arcSize=34;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="7950" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-23" value="value, src, href, checked" style="whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#8FB1E9;strokeColor=none;rounded=1;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;arcSize=34;opacity=85;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="8110" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-25" value="getAttribute&lt;br&gt;setAttribute" style="whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#8FB1E9;strokeColor=none;rounded=1;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;arcSize=34;opacity=85;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="8230" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-30" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" edge="1" parent="1" source="PFI3uvoxex2QhXYOUHTX-27" target="PFI3uvoxex2QhXYOUHTX-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-32" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" edge="1" parent="1" source="PFI3uvoxex2QhXYOUHTX-27" target="PFI3uvoxex2QhXYOUHTX-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-34" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" edge="1" parent="1" source="PFI3uvoxex2QhXYOUHTX-27" target="PFI3uvoxex2QhXYOUHTX-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-27" value="parent, children, sibling" style="whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#8FB1E9;strokeColor=none;rounded=1;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;arcSize=34;opacity=85;" vertex="1" parent="1">
+          <mxGeometry x="2430" y="8380" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-29" value="parentElement" style="whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#8FB1E9;strokeColor=none;rounded=1;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;arcSize=34;opacity=85;" vertex="1" parent="1">
+          <mxGeometry x="2900" y="8300" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-31" value="children" style="whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#8FB1E9;strokeColor=none;rounded=1;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;arcSize=34;opacity=85;" vertex="1" parent="1">
+          <mxGeometry x="2900" y="8410" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-33" value="nextElementSibling, previousElementSibling" style="whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#8FB1E9;strokeColor=none;rounded=1;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;arcSize=34;opacity=85;" vertex="1" parent="1">
+          <mxGeometry x="2900" y="8520" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-41" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" edge="1" parent="1" source="PFI3uvoxex2QhXYOUHTX-35" target="PFI3uvoxex2QhXYOUHTX-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-42" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" edge="1" parent="1" source="PFI3uvoxex2QhXYOUHTX-35" target="PFI3uvoxex2QhXYOUHTX-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-35" value="style" style="whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#8FB1E9;strokeColor=none;rounded=1;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;arcSize=34;opacity=85;" vertex="1" parent="1">
+          <mxGeometry x="2425" y="8760" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-39" value=".style" style="whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#8FB1E9;strokeColor=none;rounded=1;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;arcSize=34;opacity=85;" vertex="1" parent="1">
+          <mxGeometry x="2790" y="8730" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PFI3uvoxex2QhXYOUHTX-40" value="getComputedStyle" style="whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#8FB1E9;strokeColor=none;rounded=1;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;arcSize=34;opacity=85;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="8910" width="320" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
