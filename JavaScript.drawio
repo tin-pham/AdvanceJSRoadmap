@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T05:38:24.884Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="YycSjl4bLcoAYS4AzlSN" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-15T06:00:02.012Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="DAGtNsagWuEo3dcyCXog" version="16.2.6" type="github">
   <diagram id="LKdaaSxqh0i9E6AuNrEw" name="JavaScript">
-    <mxGraphModel dx="3207" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2642" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1283,6 +1283,12 @@
         <mxCell id="llflNUat9gvB8-kPWmKL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=diamondThin;fontSize=30;fontFamily=Comfortaa;strokeColor=#000000;fontColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;endFill=1;opacity=50;curved=1;" edge="1" parent="1" source="rD7Bza_i2xLUSjD-8GCc-94" target="llflNUat9gvB8-kPWmKL-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="llflNUat9gvB8-kPWmKL-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" edge="1" parent="1" source="rD7Bza_i2xLUSjD-8GCc-94" target="llflNUat9gvB8-kPWmKL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="llflNUat9gvB8-kPWmKL-23" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" edge="1" parent="1" source="rD7Bza_i2xLUSjD-8GCc-94" target="llflNUat9gvB8-kPWmKL-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rD7Bza_i2xLUSjD-8GCc-94" value="Object Oriented Programming" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c84b31;strokeColor=none;fontSize=41;fontStyle=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1800" y="12290" width="460" height="200" as="geometry" />
         </mxCell>
@@ -1321,6 +1327,36 @@
         </mxCell>
         <mxCell id="llflNUat9gvB8-kPWmKL-12" value="extends, super, subclass" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;fillColor=#c84b31;opacity=80;strokeColor=none;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="3190" y="12730" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="llflNUat9gvB8-kPWmKL-17" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" edge="1" parent="1" source="llflNUat9gvB8-kPWmKL-14" target="llflNUat9gvB8-kPWmKL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="llflNUat9gvB8-kPWmKL-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" edge="1" parent="1" source="llflNUat9gvB8-kPWmKL-14" target="llflNUat9gvB8-kPWmKL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="llflNUat9gvB8-kPWmKL-21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" edge="1" parent="1" source="llflNUat9gvB8-kPWmKL-14" target="llflNUat9gvB8-kPWmKL-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="llflNUat9gvB8-kPWmKL-14" value="Determine the &#39;this&#39;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;fillColor=#c84b31;opacity=80;strokeColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="2535" y="12890" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="llflNUat9gvB8-kPWmKL-15" value="bind. call, apply" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;fillColor=#c84b31;opacity=80;strokeColor=none;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="2870" y="13020" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="llflNUat9gvB8-kPWmKL-18" value="console.log(this) on the valid line above arrow function" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;fillColor=#c84b31;opacity=80;strokeColor=none;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="2875" y="12890" width="255" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="llflNUat9gvB8-kPWmKL-20" value="before the &#39;.&#39; where it being called" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;fillColor=#c84b31;opacity=80;strokeColor=none;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="2870" y="13130" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="llflNUat9gvB8-kPWmKL-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" edge="1" parent="1" source="llflNUat9gvB8-kPWmKL-22" target="llflNUat9gvB8-kPWmKL-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="llflNUat9gvB8-kPWmKL-22" value="Useful Misc" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;fillColor=#c84b31;opacity=80;strokeColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="2145" y="13060" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="llflNUat9gvB8-kPWmKL-25" value="Babel" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#FFFFFF;fillColor=#c84b31;opacity=80;strokeColor=none;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="2317.5" y="13250" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
