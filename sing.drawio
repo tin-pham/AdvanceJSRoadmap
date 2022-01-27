@@ -1,1 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T05:40:38.543Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" version="16.4.7" etag="GX4sKF7WDOdrw2IB9LNj" type="github"><diagram id="YUjV7fikBCJ8-m_6QfhC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-27T12:26:14.542Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="cRHmvg0HiEZcpJDJNgCv" version="16.4.7" type="github">
+  <diagram id="YUjV7fikBCJ8-m_6QfhC" name="Page-1">
+    <mxGraphModel dx="2864" dy="1768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="23v4YRUmWPWVpiDBJTFr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" edge="1" parent="1" source="23v4YRUmWPWVpiDBJTFr-1" target="23v4YRUmWPWVpiDBJTFr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23v4YRUmWPWVpiDBJTFr-1" value="Chest Voice" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" vertex="1" parent="1">
+          <mxGeometry x="450" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23v4YRUmWPWVpiDBJTFr-2" value="Head Voice" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" vertex="1" parent="1">
+          <mxGeometry x="830" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23v4YRUmWPWVpiDBJTFr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;endArrow=none;endFill=0;" edge="1" parent="1" source="23v4YRUmWPWVpiDBJTFr-7" target="23v4YRUmWPWVpiDBJTFr-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23v4YRUmWPWVpiDBJTFr-4" value="Chesty Mixed Voice" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23v4YRUmWPWVpiDBJTFr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" edge="1" parent="1" source="23v4YRUmWPWVpiDBJTFr-6" target="23v4YRUmWPWVpiDBJTFr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23v4YRUmWPWVpiDBJTFr-6" value="Falsetto" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" vertex="1" parent="1">
+          <mxGeometry x="190" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23v4YRUmWPWVpiDBJTFr-7" value="Light Chest Voice" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" vertex="1" parent="1">
+          <mxGeometry x="190" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23v4YRUmWPWVpiDBJTFr-11" value="Falcesto Mix" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" vertex="1" parent="1">
+          <mxGeometry x="190" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23v4YRUmWPWVpiDBJTFr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" edge="1" parent="1" source="23v4YRUmWPWVpiDBJTFr-13" target="23v4YRUmWPWVpiDBJTFr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23v4YRUmWPWVpiDBJTFr-13" value="Vocal Fry" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" vertex="1" parent="1">
+          <mxGeometry x="450" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23v4YRUmWPWVpiDBJTFr-15" value="Vibrato" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="23v4YRUmWPWVpiDBJTFr-16" value="Breathy Chest Voice" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Comfortaa;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23v4YRUmWPWVpiDBJTFr-18" value="extend" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="23v4YRUmWPWVpiDBJTFr-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="192" y="480" as="sourcePoint" />
+            <mxPoint x="70" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23v4YRUmWPWVpiDBJTFr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" edge="1" parent="1" source="23v4YRUmWPWVpiDBJTFr-19" target="23v4YRUmWPWVpiDBJTFr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23v4YRUmWPWVpiDBJTFr-19" value="Blend" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Comfortaa;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
