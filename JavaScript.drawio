@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T13:35:28.740Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="XZzWd-awYelqTOgAGbO0" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-27T13:18:27.357Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="8_uhKyXznT4VMc6XE8sj" version="16.4.7" type="github">
   <diagram id="LKdaaSxqh0i9E6AuNrEw" name="JavaScript">
-    <mxGraphModel dx="4028" dy="2436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4028" dy="2514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1379,7 +1379,10 @@
         <mxCell id="vpegBP5N3u2vgoE6vShu-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" parent="1" source="VkSNPeG7zfj2mhXaVOfc-1" target="vpegBP5N3u2vgoE6vShu-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YNGfstrdfRCh3nORZaY1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=diamondThin;fontSize=20;fontFamily=Comfortaa;strokeColor=#000000;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;endFill=1;opacity=50;curved=1;" edge="1" parent="1" source="VkSNPeG7zfj2mhXaVOfc-1" target="YNGfstrdfRCh3nORZaY1-1">
+        <mxCell id="YNGfstrdfRCh3nORZaY1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=diamondThin;fontSize=20;fontFamily=Comfortaa;strokeColor=#000000;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;endFill=1;opacity=50;curved=1;" parent="1" source="VkSNPeG7zfj2mhXaVOfc-1" target="YNGfstrdfRCh3nORZaY1-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUOIX1clTB6NdtduWSaX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;endArrow=diamondThin;endFill=1;fontSize=20;strokeColor=#000000;fontColor=#000000;opacity=50;curved=1;" edge="1" parent="1" source="VkSNPeG7zfj2mhXaVOfc-1" target="rUOIX1clTB6NdtduWSaX-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VkSNPeG7zfj2mhXaVOfc-1" value="Build Project" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a2639;strokeColor=none;fontSize=41;fontStyle=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -1451,14 +1454,17 @@
         <mxCell id="vpegBP5N3u2vgoE6vShu-3" value="Need data that was displaying on the DOM =&amp;gt; use data property" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a2639;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontColor=#FFFFFF;fontSize=25;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-50" y="14210" width="265" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="YNGfstrdfRCh3nORZaY1-6" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" edge="1" parent="1" source="YNGfstrdfRCh3nORZaY1-1" target="YNGfstrdfRCh3nORZaY1-5">
+        <mxCell id="YNGfstrdfRCh3nORZaY1-6" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;endArrow=diamondThin;endFill=1;strokeColor=#000000;opacity=50;" parent="1" source="YNGfstrdfRCh3nORZaY1-1" target="YNGfstrdfRCh3nORZaY1-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YNGfstrdfRCh3nORZaY1-1" value="Random" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a2639;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontColor=#FFFFFF;fontSize=25;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="YNGfstrdfRCh3nORZaY1-1" value="Random" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a2639;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontColor=#FFFFFF;fontSize=25;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="190" y="13950" width="265" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="YNGfstrdfRCh3nORZaY1-5" value="Fisher-Yates Shuffle" style="ellipse;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#1a2639;fontColor=#FFFFFF;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontStyle=0;opacity=70;" vertex="1" parent="1">
+        <mxCell id="YNGfstrdfRCh3nORZaY1-5" value="Fisher-Yates Shuffle" style="ellipse;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Comfortaa;fillColor=#1a2639;fontColor=#FFFFFF;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontStyle=0;opacity=70;" parent="1" vertex="1">
           <mxGeometry x="400" y="14280" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rUOIX1clTB6NdtduWSaX-1" value="Toggle Visibility" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a2639;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontColor=#FFFFFF;fontSize=25;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="340" y="13690" width="250" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
