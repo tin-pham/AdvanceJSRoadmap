@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-29T12:51:07.720Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="sWRH3hotaKZQKNmGMYHn" version="16.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-29T12:55:28.450Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="3dg8oqXpjcL9rMmigjLM" version="16.5.1" type="github">
   <diagram id="C2svemTcfUZsmS1EiCvQ" name="Adherence">
-    <mxGraphModel dx="4211" dy="1416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6220" dy="2548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,6 +85,9 @@
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=15;" edge="1" parent="1" source="vaTgJTLyDpVTGSEm01bZ-33" target="vaTgJTLyDpVTGSEm01bZ-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vaTgJTLyDpVTGSEm01bZ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;" edge="1" parent="1" source="vaTgJTLyDpVTGSEm01bZ-33" target="vaTgJTLyDpVTGSEm01bZ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-33" value="Flexibility" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="730" y="980" width="120" height="60" as="geometry" />
         </mxCell>
@@ -118,34 +121,34 @@
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;" edge="1" parent="1" source="vaTgJTLyDpVTGSEm01bZ-45" target="vaTgJTLyDpVTGSEm01bZ-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vaTgJTLyDpVTGSEm01bZ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;" edge="1" parent="1" source="vaTgJTLyDpVTGSEm01bZ-45" target="vaTgJTLyDpVTGSEm01bZ-71">
+        <mxCell id="vaTgJTLyDpVTGSEm01bZ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;" edge="1" parent="1" source="vaTgJTLyDpVTGSEm01bZ-45" target="vaTgJTLyDpVTGSEm01bZ-71">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-180" y="2584" as="targetPoint" />
+            <mxPoint x="648.87" y="2509" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;" edge="1" parent="1" source="vaTgJTLyDpVTGSEm01bZ-45" target="vaTgJTLyDpVTGSEm01bZ-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-45" value="Life doesn&#39;t stop you from training" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="320" y="2061" width="340" height="340" as="geometry" />
+          <mxGeometry x="1073.87" y="1999" width="340" height="340" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-47" value="Plan well if you have something happen on your life" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontStyle=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1931" width="317.95" height="140" as="geometry" />
+          <mxGeometry x="1683.87" y="1830" width="317.95" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-48" value="Don&#39;t freak out/overreaction when something happen, plan well and you can train properly" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontStyle=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="2151" width="380" height="160" as="geometry" />
+          <mxGeometry x="1803.87" y="2050" width="380" height="160" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;" edge="1" parent="1" source="vaTgJTLyDpVTGSEm01bZ-49" target="vaTgJTLyDpVTGSEm01bZ-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-49" value="If you miss a workout than what, just train that day workout on another day. Don&#39;t overthinking that will affect anything. In the long run, it just the same" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontStyle=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="2381" width="470" height="210" as="geometry" />
+          <mxGeometry x="1823.87" y="2280" width="470" height="210" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-53" value="If you train Monday, Thursday, Friday. Then Monday, Thursday, Saturday. It&#39;s unlikely to be a big deal" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontStyle=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="990" y="2651" width="470" height="210" as="geometry" />
+          <mxGeometry x="1793.87" y="2550" width="470" height="210" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-56" value="If you prepare for the competition it can be a problem" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="2386" width="290" height="200" as="geometry" />
+          <mxGeometry x="2623.87" y="2285" width="290" height="200" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;" edge="1" parent="1" source="vaTgJTLyDpVTGSEm01bZ-59" target="vaTgJTLyDpVTGSEm01bZ-62">
           <mxGeometry relative="1" as="geometry" />
@@ -154,22 +157,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-59" value="Priority, don&#39;t take seriously 2 program from 2 sport" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontStyle=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-640.0000000000001" y="3260" width="317.95" height="140" as="geometry" />
+          <mxGeometry x="409.9999999999999" y="3190" width="317.95" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-62" value="If you are a footballer, take the gym to improve your physical" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;rounded=0;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="-1100" y="3000" width="290" height="200" as="geometry" />
+          <mxGeometry x="-50" y="2930" width="290" height="200" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-64" value="If you are a lifter, play other sports / outside activities for fun and also make you reduce stress." style="ellipse;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;rounded=0;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="-1100" y="3450" width="290" height="200" as="geometry" />
+          <mxGeometry x="-50" y="3380" width="290" height="200" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;" edge="1" parent="1" source="vaTgJTLyDpVTGSEm01bZ-66" target="vaTgJTLyDpVTGSEm01bZ-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-66" value="Avoid interference effect" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontStyle=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-313.97000000000014" y="3540" width="317.95" height="140" as="geometry" />
+          <mxGeometry x="736.0299999999999" y="3470" width="317.95" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-67" value="Cardio after lifting or another time of the same day." style="ellipse;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;rounded=0;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="-300.0000000000001" y="3810" width="290" height="200" as="geometry" />
+          <mxGeometry x="749.9999999999999" y="3740" width="290" height="200" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;" edge="1" parent="1" source="vaTgJTLyDpVTGSEm01bZ-71" target="vaTgJTLyDpVTGSEm01bZ-59">
           <mxGeometry relative="1" as="geometry" />
@@ -178,22 +181,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-71" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: comfortaa; font-size: 30px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Play others sport / acitivities outside of bodybuilding&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="2610" width="290" height="160" as="geometry" />
+          <mxGeometry x="750" y="2540" width="290" height="160" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;" edge="1" parent="1" source="vaTgJTLyDpVTGSEm01bZ-74" target="vaTgJTLyDpVTGSEm01bZ-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-74" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;comfortaa&amp;#34; ; font-size: 30px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Injuries&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="409.99999999999994" y="2915" width="160" height="290" as="geometry" />
+          <mxGeometry x="1340" y="2630" width="160" height="290" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;" edge="1" parent="1" source="vaTgJTLyDpVTGSEm01bZ-76" target="vaTgJTLyDpVTGSEm01bZ-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-76" value="If it hurt, don&#39;t do it" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontStyle=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="290" y="3380" width="230" height="110" as="geometry" />
+          <mxGeometry x="1220" y="3095" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vaTgJTLyDpVTGSEm01bZ-78" value="Replace it with something pain-free" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;rounded=0;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="259.9999999999999" y="3640" width="290" height="200" as="geometry" />
+          <mxGeometry x="1190" y="3355" width="290" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
