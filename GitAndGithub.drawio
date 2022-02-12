@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-12T12:29:29.331Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="5MXThXZhoPnx4nD9BXGG" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-12T13:49:16.584Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="QOIroW0wr0pp-xfbNu-h" version="16.5.6" type="github">
   <diagram id="uCZnZtuWUNx1saeJuhkZ" name="Page-1">
-    <mxGraphModel dx="3283" dy="2007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3085" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,7 +116,7 @@
           <mxGeometry x="635" y="90" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RLlMxuBGRBKn2Z-enF3S-45" value="Intro to Git" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#1DAD9B;opacity=90;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="1070" width="300" height="150" as="geometry" />
+          <mxGeometry x="-320" y="1070" width="300" height="180" as="geometry" />
         </mxCell>
         <mxCell id="RLlMxuBGRBKn2Z-enF3S-46" value="What is Git?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=90;spacing=2;spacingTop=1;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-45">
           <mxGeometry y="30" width="300" height="30" as="geometry" />
@@ -129,6 +129,9 @@
         </mxCell>
         <mxCell id="RLlMxuBGRBKn2Z-enF3S-64" value="Who uses Git" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=90;spacing=2;spacingTop=1;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-45">
           <mxGeometry y="120" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-78" value="Git vs. Github" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=90;spacing=2;spacingTop=1;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-45">
+          <mxGeometry y="150" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RLlMxuBGRBKn2Z-enF3S-49" value="Version Control System" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#F5F5F5;opacity=90;" vertex="1" parent="1">
           <mxGeometry x="130" y="1075" width="190" height="80" as="geometry" />
@@ -175,7 +178,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RLlMxuBGRBKn2Z-enF3S-71" value="Who use Git?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#1DAD9B;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="-1000" y="1350" width="420" height="180" as="geometry" />
+          <mxGeometry x="-1000" y="1350" width="420" height="210" as="geometry" />
         </mxCell>
         <mxCell id="RLlMxuBGRBKn2Z-enF3S-72" value="Engineers &amp; Coders" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-71">
           <mxGeometry y="30" width="420" height="30" as="geometry" />
@@ -183,7 +186,7 @@
         <mxCell id="RLlMxuBGRBKn2Z-enF3S-73" value="Tech-Adjacent Roles " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-71">
           <mxGeometry y="60" width="420" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RLlMxuBGRBKn2Z-enF3S-74" value="Goverments &amp; Large Organization" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-71">
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-74" value="Governments &amp; Large Organization" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-71">
           <mxGeometry y="90" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RLlMxuBGRBKn2Z-enF3S-75" value="Scientists" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-71">
@@ -191,6 +194,207 @@
         </mxCell>
         <mxCell id="RLlMxuBGRBKn2Z-enF3S-76" value="Writers" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-71">
           <mxGeometry y="150" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-77" value="Anyone Really" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-71">
+          <mxGeometry y="180" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-87" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-570" y="1650" width="980" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-88" value="" style="group" vertex="1" connectable="0" parent="RLlMxuBGRBKn2Z-enF3S-87">
+          <mxGeometry width="980" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-83" value="Github" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#1DAD9B;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-88">
+          <mxGeometry x="385" width="595" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-85" value="Github is a web service that hosts Git repositories" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-83">
+          <mxGeometry y="30" width="595" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-86" value="Need internet and account" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-83">
+          <mxGeometry y="75" width="595" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-110" value="Collab with team/group" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-83">
+          <mxGeometry y="120" width="595" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-79" value="Git" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#1DAD9B;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-88">
+          <mxGeometry width="385" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-80" value="Git is Version Control" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-79">
+          <mxGeometry y="30" width="385" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-81" value="Run locally without internet" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-79">
+          <mxGeometry y="75" width="385" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-107" value="Work alone" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-79">
+          <mxGeometry y="120" width="385" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="RLlMxuBGRBKn2Z-enF3S-72" target="RLlMxuBGRBKn2Z-enF3S-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-101" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1380" y="1370" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-98" value="https://stackshare.io/git" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;opacity=40;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-101">
+          <mxGeometry y="30" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-100" value="Company Using It" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#1DAD9B;opacity=40;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-101">
+          <mxGeometry width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-102" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1540" y="1560" width="480" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-105" value="" style="group" vertex="1" connectable="0" parent="RLlMxuBGRBKn2Z-enF3S-102">
+          <mxGeometry width="480" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-103" value="https://government.github.com/community/" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;opacity=40;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-105">
+          <mxGeometry y="36.666666666666664" width="480" height="73.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-104" value="Governments Using It" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#1DAD9B;opacity=40;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-105">
+          <mxGeometry width="480" height="36.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="RLlMxuBGRBKn2Z-enF3S-74" target="RLlMxuBGRBKn2Z-enF3S-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="RLlMxuBGRBKn2Z-enF3S-78" target="RLlMxuBGRBKn2Z-enF3S-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-118" value="Git is (Primarily) A Terminal Tool" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#F5F5F5;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="870" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-120" value="The Rise of GUIs Tools" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="990" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-121" value="Github Desktop" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=40;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-120">
+          <mxGeometry y="30" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-122" value="SourceTree" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=40;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-120">
+          <mxGeometry y="60" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-123" value="GitKraken" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=40;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-120">
+          <mxGeometry y="90" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-125" value="..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=40;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-120">
+          <mxGeometry y="120" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-126" value="https://git-scm.com/downloads/guis" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=40;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-120">
+          <mxGeometry y="150" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-140" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2050" y="850" width="1500" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-128" value="" style="group" vertex="1" connectable="0" parent="RLlMxuBGRBKn2Z-enF3S-140">
+          <mxGeometry y="30" width="1500" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-129" value="" style="group" vertex="1" connectable="0" parent="RLlMxuBGRBKn2Z-enF3S-128">
+          <mxGeometry width="1500" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-130" value="Cons" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#1DAD9B;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-129">
+          <mxGeometry x="589.2857142857143" width="910.7142857142859" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-141" value="Abstract away the Git inner working, maybe you can&#39;t fully understand what is going on" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-130">
+          <mxGeometry y="30" width="910.7142857142859" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-131" value="Depend on particular software" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-130">
+          <mxGeometry y="75" width="910.7142857142859" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-132" value="Something hard to fix without command line" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-130">
+          <mxGeometry y="120" width="910.7142857142859" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-134" value="Pros" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#1DAD9B;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-129">
+          <mxGeometry width="589.2857142857143" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-135" value="Friendlier " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-134">
+          <mxGeometry y="30" width="589.2857142857143" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-143" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-134">
+          <mxGeometry y="75" width="589.2857142857143" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-142" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-134">
+          <mxGeometry y="120" width="589.2857142857143" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-139" value="Pros &amp;amp; Cons of GUIs" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;opacity=40;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-140">
+          <mxGeometry width="1500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-145" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2050" y="1090" width="1500" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-146" value="" style="group" vertex="1" connectable="0" parent="RLlMxuBGRBKn2Z-enF3S-145">
+          <mxGeometry y="30" width="1500" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-147" value="" style="group" vertex="1" connectable="0" parent="RLlMxuBGRBKn2Z-enF3S-146">
+          <mxGeometry width="1500" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-148" value="Cons" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#1DAD9B;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-147">
+          <mxGeometry x="589.2857142857143" width="910.7142857142859" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-149" value="Not beginner-friendly. You need to learn the Terminal before moving to Git" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-148">
+          <mxGeometry y="30" width="910.7142857142859" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-158" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-148">
+          <mxGeometry y="75" width="910.7142857142859" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-157" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-148">
+          <mxGeometry y="120" width="910.7142857142859" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-152" value="Pros" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#1DAD9B;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-147">
+          <mxGeometry width="589.2857142857143" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-153" value="Always have the same command" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-152">
+          <mxGeometry y="30" width="589.2857142857143" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-154" value="Command line perform way faster" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-152">
+          <mxGeometry y="75" width="589.2857142857143" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-155" value="Can you more advanced Git features" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;opacity=70;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-152">
+          <mxGeometry y="120" width="589.2857142857143" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-156" value="Pros &amp;amp; Cons of Command Line" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;opacity=40;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-145">
+          <mxGeometry width="1500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-160" value="Installation &amp; Setup" style="swimlane;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#1DAD9B;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="925" width="370" height="645" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-163" value="Git: Command Line vs. GUIs" style="whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#1DAD9B;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-160">
+          <mxGeometry x="30" y="125" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-169" value="Installation" style="whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#1DAD9B;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-160">
+          <mxGeometry x="20" y="555" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="RLlMxuBGRBKn2Z-enF3S-163" target="RLlMxuBGRBKn2Z-enF3S-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="RLlMxuBGRBKn2Z-enF3S-163" target="RLlMxuBGRBKn2Z-enF3S-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="RLlMxuBGRBKn2Z-enF3S-163" target="RLlMxuBGRBKn2Z-enF3S-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="RLlMxuBGRBKn2Z-enF3S-163" target="RLlMxuBGRBKn2Z-enF3S-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-171" value="Windows" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#1DAD9B;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="1470" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-172" value="1. GitBash" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-171">
+          <mxGeometry y="30" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-173" value="2. https://git-scm.com" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-171">
+          <mxGeometry y="60" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.165;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="RLlMxuBGRBKn2Z-enF3S-169" target="RLlMxuBGRBKn2Z-enF3S-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-176" value="Mac/Linux" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;fillColor=#1DAD9B;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="1620" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-177" value="1. GitBash" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-176">
+          <mxGeometry y="30" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-178" value="2. https://git-scm.com" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;" vertex="1" parent="RLlMxuBGRBKn2Z-enF3S-176">
+          <mxGeometry y="60" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RLlMxuBGRBKn2Z-enF3S-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="RLlMxuBGRBKn2Z-enF3S-169" target="RLlMxuBGRBKn2Z-enF3S-176">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
