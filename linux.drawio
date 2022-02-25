@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T12:43:10.456Z" agent="5.0 (X11)" version="16.6.3" etag="HWdb6zfTzy7dmSAUlz4E" type="github"><diagram id="YMFxnF5KjNwl7pwPoNxs">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-25T12:53:16.619Z" agent="5.0 (X11)" etag="62DOPe1OYPt5Yb51vTW6" version="16.6.3" type="github">
+  <diagram id="YMFxnF5KjNwl7pwPoNxs" name="Linux Terminal">
+    <mxGraphModel dx="1673" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TagpkAwl5NkRn56NV983-3" value="ls" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TagpkAwl5NkRn56NV983-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comfortaa;fontSize=30;" edge="1" parent="1" source="TagpkAwl5NkRn56NV983-4" target="TagpkAwl5NkRn56NV983-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TagpkAwl5NkRn56NV983-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comfortaa;fontSize=30;" edge="1" parent="1" source="TagpkAwl5NkRn56NV983-4" target="TagpkAwl5NkRn56NV983-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TagpkAwl5NkRn56NV983-4" value="cal" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TagpkAwl5NkRn56NV983-5" value="cal -2022" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="260" y="450" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TagpkAwl5NkRn56NV983-7" value="cal -y" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="400" y="370" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TagpkAwl5NkRn56NV983-9" value="date" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="650" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TagpkAwl5NkRn56NV983-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comfortaa;fontSize=30;" edge="1" parent="1" source="TagpkAwl5NkRn56NV983-10" target="TagpkAwl5NkRn56NV983-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TagpkAwl5NkRn56NV983-10" value="clear" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="910" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TagpkAwl5NkRn56NV983-11" value="Ctrl + L" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="885" y="400" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TagpkAwl5NkRn56NV983-13" value="Basic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSize=60;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="190" y="50" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TagpkAwl5NkRn56NV983-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comfortaa;fontSize=60;" edge="1" parent="1" source="TagpkAwl5NkRn56NV983-15" target="TagpkAwl5NkRn56NV983-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TagpkAwl5NkRn56NV983-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comfortaa;fontSize=60;" edge="1" parent="1" source="TagpkAwl5NkRn56NV983-15" target="TagpkAwl5NkRn56NV983-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TagpkAwl5NkRn56NV983-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comfortaa;fontSize=60;" edge="1" parent="1" source="TagpkAwl5NkRn56NV983-15" target="TagpkAwl5NkRn56NV983-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TagpkAwl5NkRn56NV983-15" value="View Previous Command" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="200" width="445" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TagpkAwl5NkRn56NV983-17" value="Up Arrow Key" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="390" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TagpkAwl5NkRn56NV983-18" value="history" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="500" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TagpkAwl5NkRn56NV983-19" value="Ctrl + P" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="370" width="270" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
