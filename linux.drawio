@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T13:45:38.926Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="GLV69rNsA195Qpz7_oJ_" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T13:48:18.661Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="aDlsFUp8MCFr-NcLs370" version="16.6.4" type="github">
   <diagram id="YMFxnF5KjNwl7pwPoNxs" name="Linux Terminal">
-    <mxGraphModel dx="5282" dy="3640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3066" dy="2370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,6 +132,9 @@
         </mxCell>
         <mxCell id="GocP9nL5cZ8VfKp72puV-16" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;image=https://preview.redd.it/ps4v1vipfyc71.png?auto=webp&amp;s=78b5213d132e730b0b62caf8c650b6ccc610daac;" vertex="1" parent="1">
           <mxGeometry x="1320" y="-1020" width="1700" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="GocP9nL5cZ8VfKp72puV-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/896px-Bash_Logo_black_and_white_icon_only.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="490" y="890" width="190.81" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
