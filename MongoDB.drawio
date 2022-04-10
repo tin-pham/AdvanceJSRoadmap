@@ -1,1 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T14:26:53.865Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" version="17.4.2" etag="TLxa8EuGpcZ1eVQR4TpC" type="github"><diagram id="_-vUNXx5eJdtt9GY5di0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-10T14:31:28.040Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="P3r8MfyuHbxLvMkdQzsS" version="17.4.2" type="github" pages="2">
+  <diagram id="_-vUNXx5eJdtt9GY5di0" name="MongoDB">
+    <mxGraphModel dx="1108" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_TqircQl7x9mfsvEOqoU" name="MongoDB Compass">
+    <mxGraphModel dx="1108" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5MhDhL-HcHOSuUKwad5E-1" value="A MongoDB GUI for interact with MongoDB in the local store" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="370" y="210" width="460" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
