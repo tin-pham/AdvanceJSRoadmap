@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T05:48:19.726Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="195zqdeW66XWnbSPLyZP" version="17.4.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-04-11T05:50:11.971Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="WQUAf3Q8Ewoc_xssTQMP" version="17.4.2" type="github" pages="11">
   <diagram id="_-vUNXx5eJdtt9GY5di0" name="MongoDB">
     <mxGraphModel dx="1108" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -393,11 +393,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Bcmr5kba91tUbI6uO_Dk-1" value="db.books.deleteOne({_id: &#39;xxxx&#39;})" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fontColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="260" y="40" width="410" height="110" as="geometry" />
+        <mxCell id="Bcmr5kba91tUbI6uO_Dk-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="260" y="-10" width="410" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Bcmr5kba91tUbI6uO_Dk-2" value="Delete document base on id" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fontColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="-10" width="245" height="30" as="geometry" />
+        <mxCell id="Bcmr5kba91tUbI6uO_Dk-1" value="db.books.deleteOne({_id: &#39;xxxx&#39;})" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fontColor=#4D4D4D;" vertex="1" parent="Bcmr5kba91tUbI6uO_Dk-3">
+          <mxGeometry y="50" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bcmr5kba91tUbI6uO_Dk-2" value="Delete a document base on id" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="Bcmr5kba91tUbI6uO_Dk-3">
+          <mxGeometry x="60" width="317.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bcmr5kba91tUbI6uO_Dk-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="730" y="-10" width="540" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Bcmr5kba91tUbI6uO_Dk-5" value="db.books.deleteMany({ author: &#39;luigi&#39; })" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fontColor=#4D4D4D;" vertex="1" parent="Bcmr5kba91tUbI6uO_Dk-4">
+          <mxGeometry y="50" width="539.9999999999999" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bcmr5kba91tUbI6uO_Dk-7" value="Delete all documents of &#39;luigi&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="Bcmr5kba91tUbI6uO_Dk-4">
+          <mxGeometry x="70" width="420" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
