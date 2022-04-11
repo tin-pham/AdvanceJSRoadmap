@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T05:51:27.275Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="iQwnSmKizSPHp3EfYtBX" version="17.4.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-04-11T05:54:01.686Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="OuQoi-d2btghY0Kqj1sq" version="17.4.2" type="github" pages="12">
   <diagram id="_-vUNXx5eJdtt9GY5di0" name="MongoDB">
     <mxGraphModel dx="1108" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -418,12 +418,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="L-dEXZOttNXb4KxohWCI" name="Update Documents">
-    <mxGraphModel dx="1108" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2808" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6g2LWmCzeZWuvG9OTjs4-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fontColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="530" y="180" width="60" height="30" as="geometry" />
+        <mxCell id="Ssh-4wnTnK5TdTXA4Dum-1" value="Update documents" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=50;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="430" y="-60" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YThDCF4KABDJ1NrDoIJv-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-120" y="90" width="880" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YThDCF4KABDJ1NrDoIJv-2" value="db.books.updateOne({_id: &#39;xxxx&#39;}, {$set: {rating: 10, pages: 360}})" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fontColor=#4D4D4D;" vertex="1" parent="YThDCF4KABDJ1NrDoIJv-1">
+          <mxGeometry y="50" width="880" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YThDCF4KABDJ1NrDoIJv-3" value="Update a document with &#39;_id&#39; with the content { rating....}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="YThDCF4KABDJ1NrDoIJv-1">
+          <mxGeometry x="70" width="751.22" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
