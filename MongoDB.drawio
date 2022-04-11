@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T01:06:50.220Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="mkg71Nk-lK0tghYZHEKX" version="17.4.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-04-11T01:07:51.035Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="58tIJe73IbjE18IXp2FS" version="17.4.2" type="github" pages="7">
   <diagram id="_-vUNXx5eJdtt9GY5di0" name="MongoDB">
     <mxGraphModel dx="1108" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -231,6 +231,15 @@
         </mxCell>
         <mxCell id="Q41_dbBng8XovVPniFp5-15" value="descening order" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="Q41_dbBng8XovVPniFp5-13">
           <mxGeometry x="45" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q41_dbBng8XovVPniFp5-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="410" y="770" width="650" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Q41_dbBng8XovVPniFp5-17" value="db.books.find().sort({ price: -1 }).limit(2)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;" vertex="1" parent="Q41_dbBng8XovVPniFp5-16">
+          <mxGeometry y="60" width="650" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q41_dbBng8XovVPniFp5-18" value="Chaining multiple method" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="Q41_dbBng8XovVPniFp5-16">
+          <mxGeometry x="60.9375" width="528.125" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
