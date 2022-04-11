@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T00:29:59.254Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="tSaHPTxOxmGftWSur4ww" version="17.4.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-11T00:32:56.018Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="FvjYMrRWnoIR8mWYa2yp" version="17.4.2" type="github" pages="4">
   <diagram id="_-vUNXx5eJdtt9GY5di0" name="MongoDB">
     <mxGraphModel dx="1108" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,7 +57,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hCg_wSpiH3KjPXLS-pvp" name="Mongosh">
-    <mxGraphModel dx="1108" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2808" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,6 +93,18 @@
         </mxCell>
         <mxCell id="XDhbWtvojY4iuQyzTy4K-5" value="Switch to mydb database (it will create one if it not exist)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fontStyle=2" vertex="1" parent="EGvMqqtgwj814g5F9Qs5-8">
           <mxGeometry y="100" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EGvMqqtgwj814g5F9Qs5-11" value="In able to use mongosh you need mongodb service to run&amp;nbsp;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#2D7600;strokeWidth=1;fillColor=#60a917;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=30;spacing=5;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-270" width="560" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EGvMqqtgwj814g5F9Qs5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#000000;" edge="1" parent="1" source="EGvMqqtgwj814g5F9Qs5-12" target="EGvMqqtgwj814g5F9Qs5-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EGvMqqtgwj814g5F9Qs5-12" value="mongod -dbpath [where you want to store database]" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="-100" width="570" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EGvMqqtgwj814g5F9Qs5-13" value="mongosh" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-90" width="290" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
