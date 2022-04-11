@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T06:02:27.435Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="01MmMbdLljkRa2gQPjjU" version="17.4.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-04-11T06:04:44.461Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="4F8kEIjWv8eyqAA2oPOp" version="17.4.2" type="github" pages="12">
   <diagram id="_-vUNXx5eJdtt9GY5di0" name="MongoDB">
     <mxGraphModel dx="1108" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -488,29 +488,41 @@
         <mxCell id="5NCBZ1BNchfbsIbm5M6N-7" value="Decrement the current value by 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="5NCBZ1BNchfbsIbm5M6N-5">
           <mxGeometry x="80.625" width="698.7499999999999" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5NCBZ1BNchfbsIbm5M6N-9" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1160" y="510" width="950" height="360" as="geometry" />
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1150" y="510" width="1100" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="5NCBZ1BNchfbsIbm5M6N-10" value="PULL, PUSH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=50;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="5NCBZ1BNchfbsIbm5M6N-9">
-          <mxGeometry x="310" width="377.82" height="30" as="geometry" />
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-9" value="" style="group" vertex="1" connectable="0" parent="5NCBZ1BNchfbsIbm5M6N-21">
+          <mxGeometry x="11.458333333333332" width="1088.5416666666665" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-10" value="PULL, PUSH, EACH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=50;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="5NCBZ1BNchfbsIbm5M6N-9">
+          <mxGeometry x="276.88" width="534.79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NCBZ1BNchfbsIbm5M6N-11" value="" style="group" vertex="1" connectable="0" parent="5NCBZ1BNchfbsIbm5M6N-9">
-          <mxGeometry x="10.919540229885058" y="90" width="939.080459770115" height="120" as="geometry" />
+          <mxGeometry x="12.511973180076629" y="90" width="1076.02969348659" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5NCBZ1BNchfbsIbm5M6N-12" value="db.books.updateOne({_id: &#39;xxx&#39;}, {$pull: {genre: &#39;sci-fi&#39;}})" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;" vertex="1" parent="5NCBZ1BNchfbsIbm5M6N-11">
-          <mxGeometry y="60" width="939.0804597701149" height="60" as="geometry" />
+          <mxGeometry y="60" width="1076.0296934865898" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5NCBZ1BNchfbsIbm5M6N-13" value="Remove the &#39;sci-fi&#39; from the genre array" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="5NCBZ1BNchfbsIbm5M6N-11">
-          <mxGeometry x="88.03879310344828" width="763.0028735632184" height="30" as="geometry" />
+          <mxGeometry x="100.87778376436782" width="874.2741259578544" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NCBZ1BNchfbsIbm5M6N-14" value="" style="group" vertex="1" connectable="0" parent="5NCBZ1BNchfbsIbm5M6N-9">
-          <mxGeometry y="240" width="939.080459770115" height="120" as="geometry" />
+          <mxGeometry y="240" width="1076.02969348659" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5NCBZ1BNchfbsIbm5M6N-15" value="db.books.updateOne({_id: &#39;xxx&#39;}, {$push: {genre: &#39;horror&#39;}})" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;" vertex="1" parent="5NCBZ1BNchfbsIbm5M6N-14">
-          <mxGeometry y="60" width="939.0804597701149" height="60" as="geometry" />
+          <mxGeometry y="60" width="1076.0296934865898" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5NCBZ1BNchfbsIbm5M6N-16" value="Add one element to genre array" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="5NCBZ1BNchfbsIbm5M6N-14">
-          <mxGeometry x="88.03879310344828" width="763.0028735632184" height="30" as="geometry" />
+          <mxGeometry x="100.87778376436782" width="874.2741259578544" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-18" value="" style="group" vertex="1" connectable="0" parent="5NCBZ1BNchfbsIbm5M6N-21">
+          <mxGeometry y="400" width="1076.02969348659" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-19" value="db.books.updateOne({_id: &#39;xxx&#39;}, {$push: {genre: {$each: [&#39;cartoon&#39;, &#39;comic&#39;]}}})" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;" vertex="1" parent="5NCBZ1BNchfbsIbm5M6N-18">
+          <mxGeometry y="60" width="1076.0296934865898" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-20" value="Add multiple element to array" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="5NCBZ1BNchfbsIbm5M6N-18">
+          <mxGeometry x="100.87778376436782" width="874.2741259578544" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
