@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T02:29:41.183Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="EJyLobZ8ngZPQGSna3wA" version="17.4.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-04-11T02:33:49.342Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="q7zRPmZnwcbqpEBcUuHD" version="17.4.2" type="github" pages="9">
   <diagram id="_-vUNXx5eJdtt9GY5di0" name="MongoDB">
     <mxGraphModel dx="1108" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -259,12 +259,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JFG5qnMkeWQHFmh9L_rK" name="Operators">
-    <mxGraphModel dx="2808" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3916" dy="2370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cyfilbigPFtPHewiWAye-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-150" y="350" width="860" height="120" as="geometry" />
+          <mxGeometry x="-180" y="420" width="860" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cyfilbigPFtPHewiWAye-2" value="db.books.find({rating: { $gt: 7}})" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;" vertex="1" parent="cyfilbigPFtPHewiWAye-1">
           <mxGeometry y="60" width="859.9999999999999" height="60" as="geometry" />
@@ -273,10 +273,13 @@
           <mxGeometry x="80.625" width="698.7499999999999" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cyfilbigPFtPHewiWAye-4" value="" style="group;align=center;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="360" y="90" width="830" height="180" as="geometry" />
+          <mxGeometry x="350" y="-190" width="830" height="180" as="geometry" />
         </mxCell>
         <mxCell id="7bXndQbEtte8Ya3W0Coh-1" value="$" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;" vertex="1" parent="cyfilbigPFtPHewiWAye-4">
           <mxGeometry x="292.03703703703707" y="50" width="184.44444444444446" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cyfilbigPFtPHewiWAye-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fontColor=#4D4D4D;" edge="1" parent="cyfilbigPFtPHewiWAye-4" source="7bXndQbEtte8Ya3W0Coh-2" target="7bXndQbEtte8Ya3W0Coh-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7bXndQbEtte8Ya3W0Coh-2" value="Operators" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=50;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="cyfilbigPFtPHewiWAye-4">
           <mxGeometry x="338.14814814814815" width="92.22222222222223" height="30" as="geometry" />
@@ -310,6 +313,27 @@
         </mxCell>
         <mxCell id="cyfilbigPFtPHewiWAye-14" value="Combine above two" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="cyfilbigPFtPHewiWAye-12">
           <mxGeometry x="51.63232558139534" width="876.7239534883721" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cyfilbigPFtPHewiWAye-16" value="Less/Greater than Equal&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=50;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="229.99814814814818" y="300" width="92.22222222222223" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cyfilbigPFtPHewiWAye-17" value="OR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=50;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1309.9981481481482" y="300" width="92.22222222222223" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cyfilbigPFtPHewiWAye-18" value="IN, NIN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=50;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2530" y="300" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cyfilbigPFtPHewiWAye-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2180" y="440" width="860" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cyfilbigPFtPHewiWAye-20" value="db.books.find({rating: {$in: [7,8,9]}})" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;" vertex="1" parent="cyfilbigPFtPHewiWAye-19">
+          <mxGeometry y="60" width="859.9999999999999" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cyfilbigPFtPHewiWAye-21" value="Return book that have rating 7, 8 and 9" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="cyfilbigPFtPHewiWAye-19">
+          <mxGeometry x="80.625" width="698.7499999999999" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cyfilbigPFtPHewiWAye-22" value="When you use operator, it alway need to inside { }" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="220" width="400" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
