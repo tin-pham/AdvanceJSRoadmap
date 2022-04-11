@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T02:24:30.074Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="V-WWndvtm435Vju6qrcj" version="17.4.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-04-11T02:29:41.183Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="EJyLobZ8ngZPQGSna3wA" version="17.4.2" type="github" pages="9">
   <diagram id="_-vUNXx5eJdtt9GY5di0" name="MongoDB">
     <mxGraphModel dx="1108" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -259,12 +259,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JFG5qnMkeWQHFmh9L_rK" name="Operators">
-    <mxGraphModel dx="1108" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2808" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cyfilbigPFtPHewiWAye-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="310" y="370" width="860" height="120" as="geometry" />
+          <mxGeometry x="-150" y="350" width="860" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cyfilbigPFtPHewiWAye-2" value="db.books.find({rating: { $gt: 7}})" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;" vertex="1" parent="cyfilbigPFtPHewiWAye-1">
           <mxGeometry y="60" width="859.9999999999999" height="60" as="geometry" />
@@ -283,6 +283,33 @@
         </mxCell>
         <mxCell id="7bXndQbEtte8Ya3W0Coh-3" value="&lt;span style=&quot;color: rgb(77 , 77 , 77) ; font-family: &amp;#34;comfortaa&amp;#34; ; font-size: 30px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Operator in MongoDB begin with &#39;$&#39; inside an object&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=50;fontFamily=Comfortaa;fontColor=#4D4D4D;" vertex="1" parent="cyfilbigPFtPHewiWAye-4">
           <mxGeometry y="100" width="830" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cyfilbigPFtPHewiWAye-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="900" y="450" width="860" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cyfilbigPFtPHewiWAye-6" value="db.books.find({$or: [{rating: 7}, {rating: 9}]})" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;" vertex="1" parent="cyfilbigPFtPHewiWAye-5">
+          <mxGeometry y="60" width="859.9999999999999" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cyfilbigPFtPHewiWAye-7" value="Return book that have rating or 7 or 9" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="cyfilbigPFtPHewiWAye-5">
+          <mxGeometry x="80.625" width="698.7499999999999" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cyfilbigPFtPHewiWAye-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="900" y="670" width="860" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cyfilbigPFtPHewiWAye-10" value="db.books.find({$or: [{rating: 7}, {author: &#39;shin&#39;}]})" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;" vertex="1" parent="cyfilbigPFtPHewiWAye-9">
+          <mxGeometry y="60" width="859.9999999999999" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cyfilbigPFtPHewiWAye-11" value="Return book that have rating 7 or author is &#39;shin&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="cyfilbigPFtPHewiWAye-9">
+          <mxGeometry x="45.309999999999995" width="769.37" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cyfilbigPFtPHewiWAye-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="960" width="980" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cyfilbigPFtPHewiWAye-13" value="db.books.find({$or: [{page: {$gt: 300}}, {page: {$lt: 200}}}}]})" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;" vertex="1" parent="cyfilbigPFtPHewiWAye-12">
+          <mxGeometry y="60" width="979.9999999999999" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cyfilbigPFtPHewiWAye-14" value="Combine above two" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="cyfilbigPFtPHewiWAye-12">
+          <mxGeometry x="51.63232558139534" width="876.7239534883721" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
