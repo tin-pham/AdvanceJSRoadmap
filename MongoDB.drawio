@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T05:59:05.038Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="6CX_nlHsnT_jkGgnrIGA" version="17.4.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-04-11T06:02:27.435Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="01MmMbdLljkRa2gQPjjU" version="17.4.2" type="github" pages="12">
   <diagram id="_-vUNXx5eJdtt9GY5di0" name="MongoDB">
     <mxGraphModel dx="1108" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -439,7 +439,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="L-dEXZOttNXb4KxohWCI" name="Update Documents">
-    <mxGraphModel dx="1108" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1847" dy="2158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -463,6 +463,54 @@
         </mxCell>
         <mxCell id="YThDCF4KABDJ1NrDoIJv-6" value="Update all the documents&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="YThDCF4KABDJ1NrDoIJv-4">
           <mxGeometry x="70" width="751.22" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1170" y="10" width="870" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-1" value="INC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=50;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="5NCBZ1BNchfbsIbm5M6N-8">
+          <mxGeometry x="350" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-2" value="" style="group" vertex="1" connectable="0" parent="5NCBZ1BNchfbsIbm5M6N-8">
+          <mxGeometry x="10" y="90" width="860" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-3" value="db.books.updateOne({_id: &#39;xxx&#39;}, {$inc: {page: 2}})" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;" vertex="1" parent="5NCBZ1BNchfbsIbm5M6N-2">
+          <mxGeometry y="60" width="859.9999999999999" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-4" value="Increment the current value by 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="5NCBZ1BNchfbsIbm5M6N-2">
+          <mxGeometry x="80.625" width="698.7499999999999" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-5" value="" style="group" vertex="1" connectable="0" parent="5NCBZ1BNchfbsIbm5M6N-8">
+          <mxGeometry y="240" width="860" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-6" value="db.books.updateOne({_id: &#39;xxx&#39;}, {$inc: {page: -2}})" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;" vertex="1" parent="5NCBZ1BNchfbsIbm5M6N-5">
+          <mxGeometry y="60" width="859.9999999999999" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-7" value="Decrement the current value by 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="5NCBZ1BNchfbsIbm5M6N-5">
+          <mxGeometry x="80.625" width="698.7499999999999" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1160" y="510" width="950" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-10" value="PULL, PUSH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=50;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="5NCBZ1BNchfbsIbm5M6N-9">
+          <mxGeometry x="310" width="377.82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-11" value="" style="group" vertex="1" connectable="0" parent="5NCBZ1BNchfbsIbm5M6N-9">
+          <mxGeometry x="10.919540229885058" y="90" width="939.080459770115" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-12" value="db.books.updateOne({_id: &#39;xxx&#39;}, {$pull: {genre: &#39;sci-fi&#39;}})" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;" vertex="1" parent="5NCBZ1BNchfbsIbm5M6N-11">
+          <mxGeometry y="60" width="939.0804597701149" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-13" value="Remove the &#39;sci-fi&#39; from the genre array" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="5NCBZ1BNchfbsIbm5M6N-11">
+          <mxGeometry x="88.03879310344828" width="763.0028735632184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-14" value="" style="group" vertex="1" connectable="0" parent="5NCBZ1BNchfbsIbm5M6N-9">
+          <mxGeometry y="240" width="939.080459770115" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-15" value="db.books.updateOne({_id: &#39;xxx&#39;}, {$push: {genre: &#39;horror&#39;}})" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;" vertex="1" parent="5NCBZ1BNchfbsIbm5M6N-14">
+          <mxGeometry y="60" width="939.0804597701149" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5NCBZ1BNchfbsIbm5M6N-16" value="Add one element to genre array" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="5NCBZ1BNchfbsIbm5M6N-14">
+          <mxGeometry x="88.03879310344828" width="763.0028735632184" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
