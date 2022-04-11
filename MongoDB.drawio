@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T02:34:44.839Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="YgpwOSwAEkourYDIM9s_" version="17.4.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-04-11T05:39:46.000Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="HC_xAf3U67ZRqc0_y1ze" version="17.4.2" type="github" pages="10">
   <diagram id="_-vUNXx5eJdtt9GY5di0" name="MongoDB">
     <mxGraphModel dx="1108" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -337,6 +337,29 @@
         </mxCell>
         <mxCell id="cyfilbigPFtPHewiWAye-23" value="$nin exactly the same" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2410" y="660" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="imC3irZbpBsYO5i7JUYm" name="Query Array">
+    <mxGraphModel dx="1108" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zv0ImUyjEmtMRV4n4Ept-1" value="db.books.find({genre: &quot;fantasy&quot;})" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="270" y="880" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zv0ImUyjEmtMRV4n4Ept-2" value="MongoDB will look into the array and find the &quot;reviews&quot; that have &quot;Great Read!&quot; and return that" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="255" y="970" width="570" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="zv0ImUyjEmtMRV4n4Ept-3" value="Query Array" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="820" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zv0ImUyjEmtMRV4n4Ept-4" value="db.books.find({genre: [&quot;fantasy&quot;]})" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="890" y="880" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zv0ImUyjEmtMRV4n4Ept-5" value="Exact match and only fantasy inside array" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="970" y="820" width="380" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
