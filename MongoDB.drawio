@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T01:01:36.681Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="jX6Qbll-DQ7vNiUV66dt" version="17.4.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-11T01:06:32.434Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="XEs5hSfniyfI4nXNxSaJ" version="17.4.2" type="github" pages="7">
   <diagram id="_-vUNXx5eJdtt9GY5di0" name="MongoDB">
     <mxGraphModel dx="1108" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -187,6 +187,50 @@
         </mxCell>
         <mxCell id="6mzWLedijiXUNnocw9Wj-7" value="Return first book it found have author is &#39;Shin&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#000000;fontStyle=1" vertex="1" parent="6mzWLedijiXUNnocw9Wj-5">
           <mxGeometry x="30.243902439024392" width="544.390243902439" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="a4UyDsxuzbWakU81tnnv" name="Chaining Method">
+    <mxGraphModel dx="1108" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q41_dbBng8XovVPniFp5-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="160" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Q41_dbBng8XovVPniFp5-1" value="db.books.find().count()" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;" vertex="1" parent="Q41_dbBng8XovVPniFp5-4">
+          <mxGeometry y="60" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q41_dbBng8XovVPniFp5-2" value="Return length of the result find return" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="Q41_dbBng8XovVPniFp5-4">
+          <mxGeometry x="45" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q41_dbBng8XovVPniFp5-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="750" y="160" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Q41_dbBng8XovVPniFp5-6" value="db.books.find().limit(3)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;" vertex="1" parent="Q41_dbBng8XovVPniFp5-5">
+          <mxGeometry y="60" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q41_dbBng8XovVPniFp5-7" value="Limit the amount of result we get" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="Q41_dbBng8XovVPniFp5-5">
+          <mxGeometry x="45" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q41_dbBng8XovVPniFp5-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="380" y="360" width="650" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Q41_dbBng8XovVPniFp5-11" value="db.books.find().sort({ price })" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;" vertex="1" parent="Q41_dbBng8XovVPniFp5-10">
+          <mxGeometry y="60" width="650" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q41_dbBng8XovVPniFp5-12" value="Sort books by ascending order" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="Q41_dbBng8XovVPniFp5-10">
+          <mxGeometry x="60.9375" width="528.1249999999999" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q41_dbBng8XovVPniFp5-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="520" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Q41_dbBng8XovVPniFp5-14" value="db.books.find().sort({ price: -1 })" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;" vertex="1" parent="Q41_dbBng8XovVPniFp5-13">
+          <mxGeometry y="60" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q41_dbBng8XovVPniFp5-15" value="descening order" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="Q41_dbBng8XovVPniFp5-13">
+          <mxGeometry x="45" width="390" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
