@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T02:33:49.342Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="q7zRPmZnwcbqpEBcUuHD" version="17.4.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-04-11T02:34:44.839Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="YgpwOSwAEkourYDIM9s_" version="17.4.2" type="github" pages="9">
   <diagram id="_-vUNXx5eJdtt9GY5di0" name="MongoDB">
     <mxGraphModel dx="1108" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -334,6 +334,9 @@
         </mxCell>
         <mxCell id="cyfilbigPFtPHewiWAye-22" value="When you use operator, it alway need to inside { }" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1830" y="220" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cyfilbigPFtPHewiWAye-23" value="$nin exactly the same" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="660" width="410" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
