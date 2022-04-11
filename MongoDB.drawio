@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T05:42:45.231Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="HQrQDQ1uqr7YI8LqGSKT" version="17.4.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-04-11T05:43:18.631Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.113 Safari/537.36" etag="3NnHnMn1V41iFnExmOYU" version="17.4.2" type="github" pages="10">
   <diagram id="_-vUNXx5eJdtt9GY5di0" name="MongoDB">
     <mxGraphModel dx="1108" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -352,8 +352,8 @@
         <mxCell id="zv0ImUyjEmtMRV4n4Ept-2" value="MongoDB will look into the array and find the &quot;reviews&quot; that have &quot;Great Read!&quot; and return that" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="255" y="970" width="570" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="zv0ImUyjEmtMRV4n4Ept-3" value="Query Array" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=25;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="440" y="820" width="210" height="30" as="geometry" />
+        <mxCell id="zv0ImUyjEmtMRV4n4Ept-3" value="Query Array" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;fontSize=50;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="690" y="580" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zv0ImUyjEmtMRV4n4Ept-6" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="890" y="820" width="540" height="120" as="geometry" />
